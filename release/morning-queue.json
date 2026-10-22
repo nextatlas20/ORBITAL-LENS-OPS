@@ -1,0 +1,62 @@
+[
+  {
+    "position": 1,
+    "instrument": "OBS-DS-03",
+    "site": "Desert Spur",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "0.20",
+    "signal_state": "LOST",
+    "action": "ESCALATE",
+    "basis": "signal loss"
+  },
+  {
+    "position": 2,
+    "instrument": "OBS-CP-06",
+    "site": "Cape Point",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "9.99",
+    "signal_state": "OK",
+    "action": "CALIBRATE",
+    "basis": "drift above 1.50"
+  },
+  {
+    "position": 3,
+    "instrument": "OBS-HV-02",
+    "site": "Harbor View",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "1.70",
+    "signal_state": "OK",
+    "action": "CALIBRATE",
+    "basis": "drift above 1.50"
+  },
+  {
+    "position": 4,
+    "instrument": "OBS-AL-04",
+    "site": "Alpine Lab",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "0.75",
+    "signal_state": "OK",
+    "action": "SCHEDULE",
+    "basis": "maintenance window: cryostat check"
+  },
+  {
+    "position": 5,
+    "instrument": "OBS-NR-01",
+    "site": "North Ridge",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "1.20",
+    "signal_state": "OK",
+    "action": "SCHEDULE",
+    "basis": "maintenance window: mirror wash"
+  },
+  {
+    "position": 6,
+    "instrument": "OBS-RV-07",
+    "site": "River Vale",
+    "reported_on": "2088-03-05",
+    "drift_arcsec": "1.500",
+    "signal_state": "OK",
+    "action": "WATCH",
+    "basis": "drift 0.75-1.50"
+  }
+]
