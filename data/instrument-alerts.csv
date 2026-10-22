@@ -1,0 +1,14 @@
+instrument,site,reported_on,drift_arcsec,signal_state,revision
+OBS-NR-01, North Ridge ,2088-03-05,0.80,OK,1
+OBS-HV-02,Harbor View,2088-03-05,1.51,OK,1
+OBS-DS-03, Desert Spur ,2088-03-05,0.20,LOST,1
+OBS-AL-04,Alpine Lab,2088-03-05,0.75,OK,1
+OBS-NR-01,North Ridge,2088-03-05,1.20,OK,2
+OBS-HV-02,Harbor View,2088-03-05,1.50,OK,2
+OBS-HV-02,Harbor View,2088-03-05,1.70,OK,2
+OBS-ML-05, Mesa Loop ,2088-03-04,2.00,OK,1
+OBS-CP-06,Cape Point,2088-03-05,9.99,OK,3
+OBS-RV-07,River Vale,2088-03-05,1.500,OK,1
+OBS-BK-08,Brook Knot,2088-03-05,0.74,OK,1
+OBS-XX-09,Null Site,2088-03-05,1.20,OK,01
+OBS-ZZ-10,Zenith,2088-03-05,1.2,LOST,1,extra
